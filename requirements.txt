@@ -49,7 +49,7 @@ Pillow==6.0.0
 pluggy==0.6.0
 promise==2.2.1
 psycopg2-binary==2.8.1
-py==1.5.4
+py==1.10.0
 py2==0.1.0
 py3==1.0.1
 pyasn1==0.4.5
