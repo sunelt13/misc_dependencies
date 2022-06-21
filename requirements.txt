@@ -42,7 +42,7 @@ ldap3==2.6
 MarkupSafe==1.0
 mccabe==0.6.1
 mochila==0.2.8
-numpy==1.15.2
+numpy==1.22.0
 packaging==17.1
 pandas==0.24.2
 Pillow==6.0.0
